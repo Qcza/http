@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/Qcza/http.git"
   },
   "keywords": [
     "http",
